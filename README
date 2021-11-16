@@ -1,0 +1,6 @@
+The program is supposed to tranform the given number in base2 and HEX form of FLoating point.
+
+Even tho it works for most of the cases, sometimes, because c++ uses a fixed point way of storing variables, when the fractional part written in base 2 is infinite,
+the last bits will change due to the precision flaw of the variables.
+
+A better approach would be to use arrays to store the number and perform the algorithm, but that would require a lot more time to implement.
