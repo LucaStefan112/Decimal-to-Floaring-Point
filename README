@@ -1,4 +1,4 @@
-#C++ Floating Point to Decimal Conversion Algorithm
+# C++ Floating Point to Decimal Conversion Algorithm
 This repository contains an implementation of a floating-point to decimal conversion algorithm in C++. The algorithm converts a binary floating-point number into its decimal representation. It is commonly used in computer systems to convert and display floating-point numbers accurately.
 
 **How It Works**
